@@ -1,0 +1,12 @@
+{
+  "name": "sama-meteo",
+  "displayName": "sama-meteo",
+  "expo": {
+    "name": "sama-meteo",
+    "slug": "sama-meteo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
